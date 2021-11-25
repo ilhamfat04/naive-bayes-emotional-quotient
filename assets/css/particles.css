@@ -1,0 +1,9 @@
+body{
+  background-image: linear-gradient(to right, #2980b9,#2c3e50);
+}
+
+.blank_row
+{
+    height: 100px !important; /* overwrites any other rules */
+    background-color: #FFFFFF;
+}
